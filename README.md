@@ -12,4 +12,8 @@
 
 # The air smelled of damp earth and pine, and the world seemed to pause, holding its breath in the quiet anticipation of nightfall.
 
+# 5
+
+# Beneath the towering mountains, a hidden valley spread out like a forgotten paradise. Wildflowers painted the meadows in hues of violet, blue, and gold, while a crystal-clear stream wound its way through the landscape, carving paths through moss-covered rocks.
+
 # demo
